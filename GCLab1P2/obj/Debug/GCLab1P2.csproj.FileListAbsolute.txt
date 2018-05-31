@@ -1,0 +1,7 @@
+C:\Users\ashke\source\repos\GCLab1P2\GCLab1P2\bin\Debug\GCLab1P2.exe.config
+C:\Users\ashke\source\repos\GCLab1P2\GCLab1P2\bin\Debug\GCLab1P2.exe
+C:\Users\ashke\source\repos\GCLab1P2\GCLab1P2\bin\Debug\GCLab1P2.pdb
+C:\Users\ashke\source\repos\GCLab1P2\GCLab1P2\obj\Debug\GCLab1P2.csprojAssemblyReference.cache
+C:\Users\ashke\source\repos\GCLab1P2\GCLab1P2\obj\Debug\GCLab1P2.csproj.CoreCompileInputs.cache
+C:\Users\ashke\source\repos\GCLab1P2\GCLab1P2\obj\Debug\GCLab1P2.exe
+C:\Users\ashke\source\repos\GCLab1P2\GCLab1P2\obj\Debug\GCLab1P2.pdb
